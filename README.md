@@ -15,9 +15,9 @@ Tenho 15 anos, moro em São José das palmeiras/pr e sou aluno da disciplina de 
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80px" /> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80px" /> </code>
 <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" /> </code>
-<code> img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-            
-          
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="80px" /> </code>
+<code> <i class="devicon-github-original-wordmark colored"></i>            
+<code> <i class="devicon-vscode-plain-wordmark"></i>         
 
           
         
